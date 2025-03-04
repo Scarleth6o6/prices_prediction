@@ -5,21 +5,21 @@ A través de este proyecto, se entrenan y comparan los resultados de cuatro mode
 ## 📌 Descripción
 El conjunto de datos utilizado incluye diversas características de vehículos, como:
 
- ✅ Marca
- ✅ Modelo
- ✅ Año
- ✅ Kilometraje
- ✅ Tipo de combustible
- ✅ Color
- ✅ Y más…
+ - ✅ Marca
+ - ✅ Modelo
+ - ✅ Año
+ - ✅ Kilometraje
+ - ✅ Tipo de combustible
+ - ✅ Color
+ - ✅ Y más…
 
 A partir de estos datos, se busca predecir el precio de los vehículos en base a sus características.
 
 Los modelos entrenados y evaluados son:
 
- 🔹 Regresión Lineal
- 🔹 Árbol de Decisión
- 🔹 Bosque Aleatorio
+ - 🔹 Regresión Lineal
+ - 🔹 Árbol de Decisión
+ - 🔹 Bosque Aleatorio
  🔹 LightGBM
 
 Cada modelo es evaluado utilizando la métrica RECM (Raíz del Error Cuadrático Medio) y se comparan en términos de precisión y tiempo de ejecución.
