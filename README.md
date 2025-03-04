@@ -17,10 +17,10 @@ A partir de estos datos, se busca predecir el precio de los vehículos en base a
 
 Los modelos entrenados y evaluados son:
 
-- 🔹 Regresión Lineal
-- 🔹 Árbol de Decisión
-- 🔹 Bosque Aleatorio
-- 🔹 LightGBM
+ 🔹 Regresión Lineal
+ 🔹 Árbol de Decisión
+ 🔹 Bosque Aleatorio
+ 🔹 LightGBM
 
 Cada modelo es evaluado utilizando la métrica RECM (Raíz del Error Cuadrático Medio) y se comparan en términos de precisión y tiempo de ejecución.
 
