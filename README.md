@@ -76,9 +76,9 @@ Si se prioriza la velocidad, Regresión Lineal es la mejor opción.
 Si se busca precisión, Random Forest tiene mejor desempeño.
 
 ## 📌 Mejoras Futuras
-🚀 Evaluar otros modelos como XGBoost o SVM.
-🚀 Realizar un análisis de importancia de características.
-🚀 Implementar validación cruzada para mejorar la evaluación de los modelos.
+- 🚀 Evaluar otros modelos como XGBoost o SVM.
+- 🚀 Realizar un análisis de importancia de características.
+- 🚀 Implementar validación cruzada para mejorar la evaluación de los modelos.
 
 ## 📌 Contribuciones
 Si deseas contribuir a este proyecto:
@@ -88,4 +88,5 @@ Si deseas contribuir a este proyecto:
 - 3️⃣ Realiza tus cambios y haz commit (git commit -am "Añadir nueva característica").
 - 4️⃣ Haz push a la rama (git push origin feature/nueva-caracteristica).
 - 5️⃣ Abre un Pull Request.
-- 📅 **Última actualización:** Marzo 2025
+- 
+📅 **Última actualización:** Marzo 2025
