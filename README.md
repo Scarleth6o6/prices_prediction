@@ -20,7 +20,7 @@ Los modelos entrenados y evaluados son:
  - 🔹 Regresión Lineal
  - 🔹 Árbol de Decisión
  - 🔹 Bosque Aleatorio
- 🔹 LightGBM
+ - 🔹 LightGBM
 
 Cada modelo es evaluado utilizando la métrica RECM (Raíz del Error Cuadrático Medio) y se comparan en términos de precisión y tiempo de ejecución.
 
